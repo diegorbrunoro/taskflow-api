@@ -32,12 +32,3 @@ http://localhost:8080/swagger-ui.html
 Observações:
 - As tarefas são armazenadas apenas em memória (sem banco de dados).
 - Projeto criado com fins educacionais para estudo de Spring Boot e APIs REST.
-
-
-
-✅ Resultado:
-- Você mantém o README **bonito e clicável** fora da caixa.
-- E ainda tem uma **caixa preta com “Copiar código”** para copiar tudo de uma vez.
-
-Se você quiser, eu te mando o README inteiro já com esse “Quick copy” inserido no lugar certo.
-::contentReference[oaicite:0]{index=0}
